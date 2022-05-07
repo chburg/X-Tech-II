@@ -1,3 +1,3 @@
 ## Welcome
 
-[Link](https://github.com/chburg/X-Tech_II.git)
+[Link](https://github.com/chburg/X-Tech-II.git)
